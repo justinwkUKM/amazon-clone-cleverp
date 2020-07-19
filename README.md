@@ -14,4 +14,4 @@
 #### 10. ⌨️ Build Login Page 
 #### 11. ⌨️ Set up Login Authentication functionality - use firebase credentials
 #### 12. ⌨️ Deploy the REACT APP LIVE on Firebase 
-#### You can check the website [here](https://www.google.com "Google's Homepage") 🔥🚀
+#### You can check the website [here](https://clone-9bbb8.web.app "React Amazon Clone") 🔥🚀
